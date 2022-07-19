@@ -9,8 +9,9 @@ quant.py: mimics functionality of RsubRead, but allows greater flexibility in in
 R SCRIPTS
 
 DESeqRun.R: runner script for DESeq2. Includes loading data, normalizing data, and outputting data as a csv. 
-
 edgerRunner.R: Runner script for edgeR. Includes loading data and outputting data as a csv. 
+genHistograms.R: used to generate histograms for length and proportions of mapped reads.
+scatter.R: used to generate a smoothened scatterplot to correlate gene length with read coverage.
 
 BASH SCRIPTS
 
