@@ -15,6 +15,7 @@ scatter.R: used to generate a smoothened scatterplot to correlate gene length wi
 
 BASH SCRIPTS
 
-mapLoop.sh: simple script to run minimap2 on all fastq files within a directory, using splice-aware ONT read settings.
+mapLoop.sh: simple script to run minimap2 on all fastq files within a directory directly to a mRNA reference. 
+mapLoopGenomic.sh: simple script to run minimap2 on all fastq files within a directory to a genomic reference. 
 chopLoop.sh: simple script to run  porechop on all fastq files within a directory.
 
