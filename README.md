@@ -4,7 +4,7 @@ Python, R scripts, and Bash scripts associated with the Master's Thesis "Compari
 
 PYTHON SCRIPTS
 
-quant.py: mimics functionality of RsubRead, but allows greater flexibility in input file. Was implemented to specifically address alignment directly to a transcriptome. RsubREad expects a genomic .sam or .bam file and an additional gtf file. This script expects just a .sam file aligned to a transcriptome.
+readCounter.py: mimics functionality of RsubRead, but allows greater flexibility in input file. Was implemented to specifically address alignment directly to a transcriptome. RsubREad expects a genomic .sam or .bam file and an additional gtf file. This script expects just a .sam file aligned to a transcriptome.
 
 R SCRIPTS
 
